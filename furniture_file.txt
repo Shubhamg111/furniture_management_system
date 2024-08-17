@@ -1,0 +1,6 @@
+1, HNI Corporation, Bunk Bed, 100, 400.0
+2, Haworth Inc., Twin Bed, 150, 600.0
+3, Achham furniture, Sleeper Sofa, 100, 200.0
+4, Kimball International Inc., Corner sofa, 70, 350.0
+5, Kohler Co., Armchair, 30, 150.0
+6, Masco Corporation, Desk chair, 40, 100.0
